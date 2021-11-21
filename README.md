@@ -2,3 +2,4 @@
 
 ## How to run
 make run
+make test
